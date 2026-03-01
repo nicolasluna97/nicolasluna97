@@ -21,7 +21,7 @@ My development approach prioritizes:
 - PostgreSQL (relational modeling, indexing, performance considerations)
 - Docker (containerized development environments)
 - REST API design
-- Angular 
+- Angular 17+
 
 ---
 
