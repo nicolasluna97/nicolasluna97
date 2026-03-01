@@ -1,46 +1,34 @@
 # Hi, I'm Nicolás 👋
 
-Full Stack Developer specialized in designing and building scalable web systems.
+Backend-focused Full Stack Developer specialized in scalable system architecture.
 
-I architect and develop multi-tenant applications using NestJS and Go for backend services, and Angular for modern frontend interfaces. I work with PostgreSQL and Docker to deliver structured, production-ready environments.
+I design and build structured backend services using NestJS and Go, working with PostgreSQL and Docker to deliver reliable and production-ready environments. I focus on API architecture, multi-tenant systems, and long-term maintainability.
 
-My focus is on clean architecture, performance optimization, and long-term maintainability. I approach development from a systems perspective, ensuring scalability, clear boundaries, and efficient data handling.
+My approach prioritizes clean code, performance, and well-defined system boundaries.
 
 ---
 
 ## 🚀 Core Stack
 
-- Angular  
 - NestJS  
 - Go  
 - PostgreSQL  
 - Docker  
+- Angular  
 
 ---
 
-## 🧠 Engineering Focus
+## 🧠 Backend Focus
 
-- Multi-tenant system design  
-- API architecture and backend structure  
-- Real-time data handling  
-- Business-driven application logic  
-- Scalable and maintainable codebases  
-
----
-
-## 📂 Selected Work
-
-🔹 Multi-tenant Invoicing Platform  
-🔹 Psychological Assessment Web App  
-🔹 E-commerce Implementation (TiendaNube)
+- Multi-tenant system architecture  
+- REST API design  
+- Database modeling and optimization  
+- Scalable service structure  
+- Production deployment workflows  
 
 ---
-
-## 📫 Contact
 
 📍 Córdoba, Argentina  
 📧 nicolassluna1997@gmail.com  
 
----
-
-> I build systems that are not only functional, but structured to scale.
+> I build backend systems designed to scale and evolve.
