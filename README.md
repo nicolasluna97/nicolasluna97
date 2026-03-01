@@ -1,50 +1,42 @@
-## Hi there 👋
-# Portfolio – Luna Nicolás Ezequiel
+# Hi, I'm Nicolás 👋
 
-Personal portfolio built with Go (net/http + html/templates).
+Full Stack Developer with a strong backend focus.
 
-## 🚀 Overview
+I build scalable web applications and multi-tenant systems using Angular and NestJS, working with PostgreSQL and Docker in structured environments.
 
-This project showcases my work as a Full Stack Developer, highlighting:
+---
 
-- Multi-tenant invoicing system
-- Psychological test platform (Creativistas Web)
-- E-commerce implementation (TiendaNube)
+## 🚀 Core Stack
 
-The application is built using Go for routing and template rendering, with a clean and minimal structure.
+- Angular
+- NestJS
+- PostgreSQL
+- Docker
 
-## 🧱 Tech Stack
+---
 
-- Go (net/http)
-- HTML Templates
-- CSS (custom styling system)
-- JavaScript (theme & i18n handling)
+## 🧠 What I Work On
 
-## 📁 Project Structure
+- Multi-tenant invoicing systems
+- Business-oriented web platforms
+- Clean architecture and structured backend design
+- Performance optimization and maintainable codebases
 
-## 🌐 Features
+---
 
-- Dark / Light theme toggle
-- ES / EN language toggle
-- Project showcase with flip-card animation
-- Structured project pages
-- Responsive layout
+## 📂 Featured Projects
 
-## 🛠 How to Run
+🔹 Multi-tenant Invoicing System  
+🔹 Psychological Test Platform (Creativistas Web)  
+🔹 E-commerce Implementation (TiendaNube)
 
-```bash
-go run main.go
-<!--
-**nicolasluna97/nicolasluna97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: https://github.com/nicolasluna97
+- Location: Córdoba, Argentina
+
+---
+
+> I enjoy building real-world systems that solve business problems with clean and scalable solutions.
